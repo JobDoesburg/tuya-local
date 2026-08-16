@@ -667,6 +667,7 @@
 - KKT Kolbe Easy and Solo kitchen hoods
 - Klarstein Amazonia dishwasher
 - Klarstein Ava range hood
+- Klarstein Kronleuchter Smart range hood with RGB ambient light
 - Koenic KTM-221723-M kettle
 - Kogan glass 1.7L smart kettle (at least 2 different variants)
 - Korex AX-WF306N smart kettle
